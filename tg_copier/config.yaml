@@ -1,0 +1,15 @@
+telegram:
+  api_id: 123456
+  api_hash: "your_api_hash"
+  session_name: "tg_copier"
+
+mt5:
+  login: 12345678
+  password: "your_password"
+  server: "YourBroker-Server"
+  deviation: 20
+  magic: 202401
+
+channels:
+  - telegram_id: 111111111
+    fixed_lot: 0.01
